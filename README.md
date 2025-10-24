@@ -24,14 +24,32 @@
 <h2 align="left">💡 Projects</h2>
 
 <p align="left">
-  🧠 <b><a href="https://mysecondbrain.live" target="_blank">Second Brain App</a></b> – AI-powered note & idea manager using vector embeddings.<br>
-  <i>Tech:</i> React.js, Express, MongoDB
-  <br><br>
-  💸 <b><a href="https://funwallet.vercel.app" target="_blank">FunWallet</a></b> – Digital wallet simulator for virtual transactions & history tracking.<br>
-  <i>Tech:</i> React, Node.js, MongoDB
-  <br><br>
-  📚 <b>Course Selling API</b> – Secure REST API with JWT auth & role-based access.<br>
-  <i>Tech:</i> Node.js, Express
+
+🧠 <b><a href="https://mysecondbrain.live" target="_blank">Second Brain App</a></b> – AI-powered note & idea manager using vector embeddings.  
+<i>Tech:</i> React.js, Express, MongoDB  
+
+<br>
+
+💸 <b><a href="https://funwallet.vercel.app" target="_blank">FunWallet</a></b> – Digital wallet simulator for virtual transactions & history tracking.  
+<i>Tech:</i> React, Node.js, MongoDB  
+
+<br>
+
+🎯 <b><a href="lakshya-woad.vercel.app" target="_blank"> Lakshya App</b> – Goal-tracking and productivity web app for managing daily tasks, streaks, and achievements.  
+<i>Tech:</i> Next.js, Prisma, PostgreSQL, Tailwind  
+
+<br>
+
+💬 <b>Realtime WebSocket Chat</b> – Lightweight real-time chat system with typing indicators and message persistence.  
+<i>Tech:</i> Node.js, WebSocket, Express, MongoDB 
+<i><a href="https://github.com/Aditya987456/Development-journey/tree/main/websocket-w16" target="_blank">Github code</i>
+
+<br>
+
+📚 <b>Course Selling API</b> – Secure REST API with JWT authentication & role-based access.  
+<i>Tech:</i> Node.js, Express 
+<i><a href="https://github.com/Aditya987456/course-selling-app" target="_blank">Github code</i> 
+
 </p>
 
 ---
