@@ -12,7 +12,7 @@
 <h2 align="left">✨ About Me</h2>
 
 <p align="left">
-  🔭 Currently working on <a href="https://mysecondbrain.live" target="_blank"><b>mysecondbrain.live</b></a><br>
+  🔭 Currently working on <a href="https://reachaiapp.online" target="_blank"><b>mysecondbrain.live</b></a><br>
   🌱 Learning <b>DevOps</b><br>
   🤔 Looking for help with <b>AI</b> & <b>Web3</b><br>
   💬 Ask me about <b>Web Development</b><br>
