@@ -12,7 +12,7 @@
 <h2 align="left">✨ About Me</h2>
 
 <p align="left">
-  🔭 Currently looking for an <b>job<b> opportunity.
+  🔭 Currently looking for an <b>job<b> opportunity.<br>
   🌱 Learning <b>DevOps</b><br>
   🤔 Looking for help with <b>AI</b> & <b>Web3</b><br>
   💬 Ask me about <b>Web Development</b><br>
