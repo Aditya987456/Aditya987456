@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#007acc;">Aditya Raj</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#007acc;">Aditya Raj</span></h1>
 
 ###
 
@@ -36,7 +36,7 @@
 <br>
 
 🎯 <b><a href="lakshya-woad.vercel.app" target="_blank"> Lakshya App</b> – Goal-tracking and productivity web app for managing daily tasks, streaks, and achievements.  
-<i>Tech:</i> Next.js, Prisma, PostgreSQL, Tailwind  
+<i>Tech:</i> Reactjs 
 
 <br>
 
