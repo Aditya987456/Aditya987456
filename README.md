@@ -76,6 +76,7 @@
 ##### AI-Powered Semantic Knowledge Management Platform
 
 🔗 Live: https://mysecondbrain.live
+• [GitHub](https://github.com/Aditya987456/Second-brain-app)
 
 - Built an AI-powered second brain system using vector embeddings and semantic search
 - Implemented contextual retrieval using embeddings + LLM workflows
@@ -92,6 +93,8 @@
 
 ### 🖥️ Unix-like Shell in C
 ##### Systems Programming Project
+
+• [GitHub](https://github.com/Aditya987456/mini-shell)
 
 - Built a custom Unix shell from scratch in C
 - Implemented command parsing, process management, and execution
@@ -111,7 +114,9 @@
 ### 💸 FunWallet
 ##### Digital Wallet Simulator
 
-🔗 Live: https://funwallet.vercel.app
+🔗 Live: https://funwallet.vercel.app 
+• [GitHub](https://github.com/Aditya987456/FunWallet)
+
 
 - Simulated virtual transactions and balance management
 - Built complete frontend-backend integration
@@ -127,6 +132,8 @@
 
 ### 🎨 CoDraw
 ##### Collaborative Drawing & Realtime Collaboration Platform *(Currently Working On)*
+🔗 Live: currently working 
+• [GitHub](https://github.com/Aditya987456/CoDraw)
 
 - Building a real-time collaborative drawing platform inspired by modern whiteboard tools
 - Implementing live collaboration using WebSockets
