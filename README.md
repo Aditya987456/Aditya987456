@@ -1,90 +1,195 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#007acc;">Aditya Raj</span></h1>
+<h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 
-###
+<h3 align="center">
+Full-Stack Developer • Backend Engineer • AI Enthusiast
+</h3>
 
 <p align="center">
-  🚀 Full-Stack Developer passionate about building scalable web products and exploring AI & Web3.<br/>
-  💡 Skilled in problem solving, system design, and crafting smooth user experiences.
+Building scalable web applications, AI-powered products, and backend systems.
 </p>
 
 ---
 
-<h2 align="left">✨ About Me</h2>
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student at IERT Prayagraj (2022 – 2026)
+- 💼 Currently looking for Full-Stack / Backend Developer opportunities
+- 🌱 Learning DevOps, System Design, and scalable backend architectures
+- 🧠 Interested in AI Engineering, WebSockets, Distributed Systems & Web3
+- ⚡ Strong focus on backend development, APIs, authentication, and real-world product building
+- 💬 Ask me about React, Next.js, Node.js, Express, MongoDB, JWT, AI integrations
+- 📫 Reach me at: **adityarajxdev@gmail.com**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  🔭 Currently looking for a <b>job</b> opportunity.<br>
-  🌱 Learning <b>DevOps</b><br>
-  🤔 Looking for help with <b>AI</b> & <b>Web3</b><br>
-  💬 Ask me about <b>Web Development</b><br>
-  📫 Reach me at: <a href="mailto:adityarajxdev@gmail.com">adityarajxdev@gmail.com</a>
+<a href="https://linkedin.com/in/adityaraj2981" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://github.com/Aditya987456" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://x.com/aadiitw" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
 </p>
 
 ---
 
-<h2 align="left">💡 Projects</h2>
+# 💡 Featured Projects
 
-<p align="left">
+## 🤖 ReachAI
+### AI Metadata Optimizer for YouTube Creators
 
-🧠 <b><a href="https://mysecondbrain.live" target="_blank">Second Brain App</a></b> – AI-powered note & idea manager using vector embeddings for semantic search and contextual retrieval.  
-<i>Tech:</i> React.js, Express, MongoDB  
+🔗 Live: https://reachaiapp.online
 
-<br><br>
+- Built an AI-powered platform to generate SEO-optimized YouTube metadata
+- Automated niche detection, trending analysis, and metadata generation
+- Developed event-driven backend workflows using Motia.dev
+- Integrated Razorpay payments with secure webhook verification
+- Implemented retry mechanisms for workflow reliability
 
-🤖 <b><a href="https://reachaiapp.online" target="_blank">ReachAI App</a></b> – AI-powered platform to boost YouTube reach using trend-driven metadata generation.  
-Automatically analyzes YouTube URLs to generate optimized titles, descriptions, and tags for better discoverability and engagement.  
-<i>Tech:</i> Next.js (Frontend), Motia.dev (Backend)
+### Tech Stack
+`Next.js` `TypeScript` `Motia.dev` `AI APIs` `Razorpay`
 
-<br><br>
+---
 
-💸 <b><a href="https://funwallet.vercel.app" target="_blank">FunWallet</a></b> – Digital wallet simulator for virtual transactions, balance tracking, and transaction history visualization.  
-<i>Tech:</i> React, Node.js, MongoDB  
+## 🧠 Second Brain App
+### AI-Powered Semantic Knowledge Management Platform
 
-<br><br>
+🔗 Live: https://mysecondbrain.live
 
-🎯 <b><a href="https://lakshya-woad.vercel.app" target="_blank">Lakshya App</a></b> – Goal-tracking and productivity web app for managing daily tasks, streaks, and achievements.  
-<i>Tech:</i> React.js  
+- Built an AI-powered second brain system using vector embeddings and semantic search
+- Implemented contextual retrieval using embeddings + LLM workflows
+- Added secure JWT authentication and protected APIs
+- Embedded support for YouTube, GitHub, Twitter, Docs, and websites
+- Responsive dashboard with dynamic content rendering
 
-<br><br>
+### Tech Stack
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Vector Embeddings`
 
-💬 <b>Realtime WebSocket Chat</b> – Lightweight real-time chat system with typing indicators, live messaging, and message persistence.  
-<i>Tech:</i> Node.js, WebSocket, Express, MongoDB  
-<i><a href="https://github.com/Aditya987456/Development-journey/tree/main/websocket-w16" target="_blank">GitHub Code</a></i>
+---
 
-<br><br>
+## 🖥️ Unix-like Shell in C
+### Systems Programming Project
 
-📚 <b>Course Selling API</b> – Secure REST API with JWT authentication, role-based access control, and protected routes.  
-<i>Tech:</i> Node.js, Express  
-<i><a href="https://github.com/Aditya987456/course-selling-app" target="_blank">GitHub Code</a></i>
+- Built a custom Unix shell from scratch in C
+- Implemented command parsing, process management, and execution
+- Used `fork()`, `exec()`, and `wait()` system calls
+- Added support for:
+  - I/O redirection
+  - Background processes
+  - Built-in shell commands
 
+### Concepts Explored
+`Operating Systems` `Linux Internals` `Process Lifecycle` `Systems Programming`
+
+---
+
+## 💸 FunWallet
+### Digital Wallet Simulator
+
+🔗 Live: https://funwallet.vercel.app
+
+- Simulated virtual transactions and balance management
+- Built complete frontend-backend integration
+- Added transaction history tracking and wallet management
+- Deployed frontend and backend separately using Vercel + Render
+
+### Tech Stack
+`React.js` `Node.js` `MongoDB`
+
+---
+
+## 🎨 CoDraw
+### Collaborative Drawing & Realtime Collaboration Platform *(Currently Working On)*
+
+- Building a real-time collaborative drawing platform inspired by modern whiteboard tools
+- Implementing live collaboration using WebSockets
+- Working on scalable room-based architecture and realtime synchronization
+- Exploring canvas rendering optimization and low-latency communication
+
+### Planned Tech Stack
+`Next.js` `TypeScript` `WebSocket` `Node.js` `Canvas API`
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+</p>
+
+## Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+## Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+</p>
+
+## Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts" />
 </p>
 
 ---
 
-<h2 align="left">🛠️ Skills</h2>
+# 📚 Core CS Knowledge
+
+- Data Structures & Algorithms
+- Operating Systems
+- DBMS
+- Computer Networks
+- Object-Oriented Programming
+- Authentication & Authorization
+- REST APIs
+- System Design Fundamentals
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya987456&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya987456&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🚀 Built multiple full-stack production-ready applications
+- 🔐 Implemented secure authentication systems using JWT
+- 🤖 Worked on AI-powered semantic search systems
+- ⚡ Built event-driven backend workflows
+- 🧠 Strong interest in scalable backend architecture and AI engineering
+- 🎓 Cybersecurity Workshop Certified
+
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" />
+
+### 👀 Profile Views
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya987456.Aditya987456" />
+
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya987456.Aditya987456" alt="Visitors Badge" />
-</div>
-
----
-
 <p align="center">
-  ✨ <i>Always learning. Always building.</i> 🚀
+✨ <i>Always learning. Always building.</i> 🚀
 </p>
