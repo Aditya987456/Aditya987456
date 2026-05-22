@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj</h1>
 
 <h3 align="center">
-Full-Stack Developer • Backend Engineer • AI Enthusiast
+Full-Stack Developer • Backend Engineer
 </h3>
 
 <p align="center">
@@ -149,13 +149,11 @@ Building scalable web applications, AI-powered products, and backend systems.
 
 # 📚 Core CS Knowledge
 
-- Data Structures & Algorithms
 - Operating Systems
+- Data Structures & Algorithms
 - DBMS
 - Computer Networks
 - Object-Oriented Programming
-- Authentication & Authorization
-- REST APIs
 - System Design Fundamentals
 
 ---
@@ -166,17 +164,6 @@ Building scalable web applications, AI-powered products, and backend systems.
 <img src="https://github-readme-stats.vercel.app/api?username=Aditya987456&show_icons=true&theme=tokyonight" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya987456&layout=compact&theme=tokyonight" height="180"/>
 </p>
-
----
-
-# 🏆 Achievements
-
-- 🚀 Built multiple full-stack production-ready applications
-- 🔐 Implemented secure authentication systems using JWT
-- 🤖 Worked on AI-powered semantic search systems
-- ⚡ Built event-driven backend workflows
-- 🧠 Strong interest in scalable backend architecture and AI engineering
-- 🎓 Cybersecurity Workshop Certified
 
 ---
 
@@ -191,5 +178,5 @@ Building scalable web applications, AI-powered products, and backend systems.
 ---
 
 <p align="center">
-✨ <i>Always learning. Always building.</i> 🚀
+✨ <i>Always learning. Always building.</i> 
 </p>
