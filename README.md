@@ -12,7 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=Aditya987456&style=flat-square&color=blue" />
 </p>
 
-<br>
 
 ## About Me
 
@@ -37,7 +36,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/aadiitw" target="_blank">
+  <a href="https://x.com/aadii_tw" target="_blank">
     <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
