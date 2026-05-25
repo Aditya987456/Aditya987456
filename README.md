@@ -18,7 +18,7 @@
 - 🎓 B.Tech CSE Student at IERT Prayagraj (2022 – 2026)
 - 💼 Currently looking for Full-Stack / Backend Developer opportunities
 - 🌱 Learning DevOps, System Design, and scalable backend architectures
-- 🧠 Interested in AI Engineering, WebSockets, Distributed Systems & Web3
+- 🧠 Interested in AI Engineering, Distributed Systems & Web3
 - ⚡ Strong focus on backend development, APIs, authentication, and real-world product building
 - 💬 Ask me about React, Next.js, Node.js, Express, MongoDB, JWT, AI integrations
 - 📫 Reach me at: **adityarajxdev@gmail.com**
@@ -96,7 +96,7 @@
 
 • [GitHub](https://github.com/Aditya987456/mini-shell)
 
-- Built a custom Unix shell from scratch in C
+- Built a custom Unix shell from scratch in C language.
 - Implemented command parsing, process management, and execution
 - Used `fork()`, `exec()`, and `wait()` system calls
 - Added support for:
